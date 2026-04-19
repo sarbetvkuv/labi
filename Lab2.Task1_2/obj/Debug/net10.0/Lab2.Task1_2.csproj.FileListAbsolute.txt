@@ -1,0 +1,14 @@
+C:\Users\mkoch\Desktop\тг\C# MISHA\C# MISHA\Lab2.Task1_2\bin\Debug\net10.0\Lab2.Task1_2.exe
+C:\Users\mkoch\Desktop\тг\C# MISHA\C# MISHA\Lab2.Task1_2\bin\Debug\net10.0\Lab2.Task1_2.deps.json
+C:\Users\mkoch\Desktop\тг\C# MISHA\C# MISHA\Lab2.Task1_2\bin\Debug\net10.0\Lab2.Task1_2.runtimeconfig.json
+C:\Users\mkoch\Desktop\тг\C# MISHA\C# MISHA\Lab2.Task1_2\bin\Debug\net10.0\Lab2.Task1_2.dll
+C:\Users\mkoch\Desktop\тг\C# MISHA\C# MISHA\Lab2.Task1_2\bin\Debug\net10.0\Lab2.Task1_2.pdb
+C:\Users\mkoch\Desktop\тг\C# MISHA\C# MISHA\Lab2.Task1_2\obj\Debug\net10.0\Lab2.Task1_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkoch\Desktop\тг\C# MISHA\C# MISHA\Lab2.Task1_2\obj\Debug\net10.0\Lab2.Task1_2.AssemblyInfoInputs.cache
+C:\Users\mkoch\Desktop\тг\C# MISHA\C# MISHA\Lab2.Task1_2\obj\Debug\net10.0\Lab2.Task1_2.AssemblyInfo.cs
+C:\Users\mkoch\Desktop\тг\C# MISHA\C# MISHA\Lab2.Task1_2\obj\Debug\net10.0\Lab2.Task1_2.csproj.CoreCompileInputs.cache
+C:\Users\mkoch\Desktop\тг\C# MISHA\C# MISHA\Lab2.Task1_2\obj\Debug\net10.0\Lab2.Task1_2.dll
+C:\Users\mkoch\Desktop\тг\C# MISHA\C# MISHA\Lab2.Task1_2\obj\Debug\net10.0\refint\Lab2.Task1_2.dll
+C:\Users\mkoch\Desktop\тг\C# MISHA\C# MISHA\Lab2.Task1_2\obj\Debug\net10.0\Lab2.Task1_2.pdb
+C:\Users\mkoch\Desktop\тг\C# MISHA\C# MISHA\Lab2.Task1_2\obj\Debug\net10.0\Lab2.Task1_2.genruntimeconfig.cache
+C:\Users\mkoch\Desktop\тг\C# MISHA\C# MISHA\Lab2.Task1_2\obj\Debug\net10.0\ref\Lab2.Task1_2.dll

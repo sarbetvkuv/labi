@@ -1,0 +1,14 @@
+C:\Users\mkoch\Desktop\тг\C# MISHA\C# MISHA\Lab2.Task2.Async\bin\Debug\net10.0\Lab2.Task2.Async.exe
+C:\Users\mkoch\Desktop\тг\C# MISHA\C# MISHA\Lab2.Task2.Async\bin\Debug\net10.0\Lab2.Task2.Async.deps.json
+C:\Users\mkoch\Desktop\тг\C# MISHA\C# MISHA\Lab2.Task2.Async\bin\Debug\net10.0\Lab2.Task2.Async.runtimeconfig.json
+C:\Users\mkoch\Desktop\тг\C# MISHA\C# MISHA\Lab2.Task2.Async\bin\Debug\net10.0\Lab2.Task2.Async.dll
+C:\Users\mkoch\Desktop\тг\C# MISHA\C# MISHA\Lab2.Task2.Async\bin\Debug\net10.0\Lab2.Task2.Async.pdb
+C:\Users\mkoch\Desktop\тг\C# MISHA\C# MISHA\Lab2.Task2.Async\obj\Debug\net10.0\Lab2.Task2.Async.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkoch\Desktop\тг\C# MISHA\C# MISHA\Lab2.Task2.Async\obj\Debug\net10.0\Lab2.Task2.Async.AssemblyInfoInputs.cache
+C:\Users\mkoch\Desktop\тг\C# MISHA\C# MISHA\Lab2.Task2.Async\obj\Debug\net10.0\Lab2.Task2.Async.AssemblyInfo.cs
+C:\Users\mkoch\Desktop\тг\C# MISHA\C# MISHA\Lab2.Task2.Async\obj\Debug\net10.0\Lab2.Task2.Async.csproj.CoreCompileInputs.cache
+C:\Users\mkoch\Desktop\тг\C# MISHA\C# MISHA\Lab2.Task2.Async\obj\Debug\net10.0\Lab2.Task2.Async.dll
+C:\Users\mkoch\Desktop\тг\C# MISHA\C# MISHA\Lab2.Task2.Async\obj\Debug\net10.0\refint\Lab2.Task2.Async.dll
+C:\Users\mkoch\Desktop\тг\C# MISHA\C# MISHA\Lab2.Task2.Async\obj\Debug\net10.0\Lab2.Task2.Async.pdb
+C:\Users\mkoch\Desktop\тг\C# MISHA\C# MISHA\Lab2.Task2.Async\obj\Debug\net10.0\Lab2.Task2.Async.genruntimeconfig.cache
+C:\Users\mkoch\Desktop\тг\C# MISHA\C# MISHA\Lab2.Task2.Async\obj\Debug\net10.0\ref\Lab2.Task2.Async.dll

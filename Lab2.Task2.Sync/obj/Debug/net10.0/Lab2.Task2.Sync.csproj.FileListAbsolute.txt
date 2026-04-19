@@ -1,0 +1,14 @@
+C:\Users\mkoch\Desktop\тг\C# MISHA\C# MISHA\Lab2.Task2.Sync\bin\Debug\net10.0\Lab2.Task2.Sync.exe
+C:\Users\mkoch\Desktop\тг\C# MISHA\C# MISHA\Lab2.Task2.Sync\bin\Debug\net10.0\Lab2.Task2.Sync.deps.json
+C:\Users\mkoch\Desktop\тг\C# MISHA\C# MISHA\Lab2.Task2.Sync\bin\Debug\net10.0\Lab2.Task2.Sync.runtimeconfig.json
+C:\Users\mkoch\Desktop\тг\C# MISHA\C# MISHA\Lab2.Task2.Sync\bin\Debug\net10.0\Lab2.Task2.Sync.dll
+C:\Users\mkoch\Desktop\тг\C# MISHA\C# MISHA\Lab2.Task2.Sync\bin\Debug\net10.0\Lab2.Task2.Sync.pdb
+C:\Users\mkoch\Desktop\тг\C# MISHA\C# MISHA\Lab2.Task2.Sync\obj\Debug\net10.0\Lab2.Task2.Sync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkoch\Desktop\тг\C# MISHA\C# MISHA\Lab2.Task2.Sync\obj\Debug\net10.0\Lab2.Task2.Sync.AssemblyInfoInputs.cache
+C:\Users\mkoch\Desktop\тг\C# MISHA\C# MISHA\Lab2.Task2.Sync\obj\Debug\net10.0\Lab2.Task2.Sync.AssemblyInfo.cs
+C:\Users\mkoch\Desktop\тг\C# MISHA\C# MISHA\Lab2.Task2.Sync\obj\Debug\net10.0\Lab2.Task2.Sync.csproj.CoreCompileInputs.cache
+C:\Users\mkoch\Desktop\тг\C# MISHA\C# MISHA\Lab2.Task2.Sync\obj\Debug\net10.0\Lab2.Task2.Sync.dll
+C:\Users\mkoch\Desktop\тг\C# MISHA\C# MISHA\Lab2.Task2.Sync\obj\Debug\net10.0\refint\Lab2.Task2.Sync.dll
+C:\Users\mkoch\Desktop\тг\C# MISHA\C# MISHA\Lab2.Task2.Sync\obj\Debug\net10.0\Lab2.Task2.Sync.pdb
+C:\Users\mkoch\Desktop\тг\C# MISHA\C# MISHA\Lab2.Task2.Sync\obj\Debug\net10.0\Lab2.Task2.Sync.genruntimeconfig.cache
+C:\Users\mkoch\Desktop\тг\C# MISHA\C# MISHA\Lab2.Task2.Sync\obj\Debug\net10.0\ref\Lab2.Task2.Sync.dll
